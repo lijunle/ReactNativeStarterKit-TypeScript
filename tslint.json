@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "tslint:all",
+    "tslint-react",
+    "tslint-immutable"
+  ],
+  "rules": {
+    "no-unused-variable": false,
+    "no-unsafe-any": false,
+    "only-arrow-functions": [true, "allow-named-functions"]
+  }
+}
